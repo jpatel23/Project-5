@@ -52,3 +52,4 @@ that all I had to do was get the typed word from the text box and set it equal t
 Finally, I went back to work on the show station button. I used the find list method, using the slider value and the comboBox value to
 find the full list of STIDs.
 
+![UML](https://user-images.githubusercontent.com/47227880/57090553-b22e0780-6ccc-11e9-85c2-9304f4a55f0b.PNG)
